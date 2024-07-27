@@ -1,5 +1,5 @@
 
-# Bridge to Turbin3 Solana development 
+# Turbin3-Prereq Solana development (Rust)
 
 Within this project, we create a secret key and public key, request for an airdrop from solana devnet, made a transfer to another wallet, emptied a wallet, interacted with the WBA anchor IDL, and created program derived addresses.
 
