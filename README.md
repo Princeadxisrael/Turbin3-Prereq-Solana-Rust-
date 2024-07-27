@@ -32,12 +32,6 @@ consume_idl -  interact with the anchor IDL program that WBA has created on the 
 
 
 ## Deployment
-run:
-To create a new keypair 
-
-```bash
-  yarn keygen
-```
 
 To initiate a new project, use cargo. Ensure you have the latest version of Rust installed, which should come with cargo, and solana CLI. If required, check your env. variables
 ```bash
